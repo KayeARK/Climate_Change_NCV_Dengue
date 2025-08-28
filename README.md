@@ -1,5 +1,5 @@
 # Climate_Change_NCV_Dengue
-This code includes data and generates figures for "The effect of natural climate variability on future suitability for vector-borne disease: a mathematical modelling study" by AR Kaye, L Sun, WS Hart, JW Hurrell, MJ Tildesley and RN Thompson 2025
+This code includes data and generates figures for "The effect of natural climate variability on future suitability for vector-borne disease: a mathematical modelling study"
 
 This repository has a "Data" and "Figures" file.
 
